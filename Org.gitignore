@@ -7,6 +7,7 @@
 *.docx
 *_biber.bib
 ltxmathml
+_minted-*
 
 ##
 ## BELOW HERE IS TEX.GITIGNORE
