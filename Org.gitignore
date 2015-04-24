@@ -1,5 +1,12 @@
+*.pyc
+*.pytxcode
+*.pickle
+*.png
 *.pdf
 *.tex
+*.docx
+*_biber.bib
+ltxmathml
 
 ##
 ## BELOW HERE IS TEX.GITIGNORE

@@ -1,3 +1,7 @@
+*.bcf
+*.xml
+.auctex-auto
+
 *.acn
 *.acr
 *.alg
